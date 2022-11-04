@@ -14,10 +14,10 @@ function App() {
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="active" href="index.html">Home</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="resume.html">Resume</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a class="active" href="#home">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#resume">Resume</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -62,7 +62,7 @@ function App() {
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-rounded-right"></i> <strong>Birthday:</strong> 8 aprl 1999</li>
+                  <li><i class="bi bi-rounded-right"></i> <strong>Birthday:</strong> 1/1 1999</li>
                   <li><i class="bi bi-rounded-right"></i> <strong>Website:</strong> github/Umubyeyi</li>
                   <li><i class="bi bi-rounded-right"></i> <strong>Phone:</strong> +250 784 560891</li>
                   <li><i class="bi bi-rounded-right"></i> <strong>City:</strong> Kigali : , Rwanda</li>
