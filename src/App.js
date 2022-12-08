@@ -52,7 +52,7 @@ function App() {
 
         <div class="row">
           <div class="col-lg-4">
-            <img src="../assets/img/hero.jpg" class="img-fluid" alt=""/>
+            <img src="../assets/img/image4.jpeg" class="img-fluid" alt=""/>
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
             <h3>Illustrator &amp; UI/UX Designer</h3>
@@ -78,15 +78,8 @@ function App() {
               </div>
             </div>
             <p>
-           I'm Software developer that creative force behind computer programs of all kinds. They design and write the code used to build everything from operating systems to apps to video games. 
+           I'm Software developer that creative force behind computer programs of all kinds. design and write the code used to build everything from operating systems to apps to video games. 
            Analyzing the needs of software users Designing, testing, and building software programs to meet user needs
-
-Creating models and diagrams that outline the code needed to create software and applications
-
-Performing maintenance and testing to keep software functioning 
-
-Documenting the process to provide the information needed for upgrades and maintenance
-
 
             </p>
           </div>
@@ -216,13 +209,12 @@ Datastructures ,Software design</p>
             <div class="resume-item">
               <h4>Project Developer</h4>
               <h5>2018 - 2022</h5>
-              <p><em>Univerist Of Rwanda Nyarugenge Campus</em></p>
+              <p><em>Univeristy Of Rwanda Nyarugenge Campus</em></p>
               <p>
               <ul>
                 <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
                 <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
                 <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created  design presentations and proposals a month for Assignment</li>
               </ul>
               </p>
             </div>
